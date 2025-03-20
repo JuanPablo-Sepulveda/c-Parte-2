@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundamentosCsharp", "FundamentosCsharp\FundamentosCsharp.csproj", "{641AAA08-EAA6-4C76-A2DA-CFD3D940D69D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{641AAA08-EAA6-4C76-A2DA-CFD3D940D69D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641AAA08-EAA6-4C76-A2DA-CFD3D940D69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641AAA08-EAA6-4C76-A2DA-CFD3D940D69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641AAA08-EAA6-4C76-A2DA-CFD3D940D69D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E98FBE04-C687-44B4-A996-C2DFD6556FF0}
+	EndGlobalSection
+EndGlobal
