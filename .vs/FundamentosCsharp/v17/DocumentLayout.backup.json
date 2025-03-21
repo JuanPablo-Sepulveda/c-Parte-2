@@ -1,9 +1,5 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\FundamentosCsharp\\",
-  "Documents": [],
-=======
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\FundamentosCsharp\\",
   "Documents": [
     {
@@ -11,49 +7,62 @@
       "RelativeMoniker": "D:0:0:{641AAA08-EAA6-4C76-A2DA-CFD3D940D69D}|FundamentosCsharp\\FundamentosCsharp.csproj|solutionrelative:fundamentoscsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{641AAA08-EAA6-4C76-A2DA-CFD3D940D69D}|FundamentosCsharp\\FundamentosCsharp.csproj|c:\\users\\user\\source\\repos\\fundamentoscsharp\\fundamentoscsharp\\models\\cervezabd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641AAA08-EAA6-4C76-A2DA-CFD3D940D69D}|FundamentosCsharp\\FundamentosCsharp.csproj|solutionrelative:fundamentoscsharp\\models\\cervezabd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{641AAA08-EAA6-4C76-A2DA-CFD3D940D69D}|FundamentosCsharp\\FundamentosCsharp.csproj|c:\\users\\user\\source\\repos\\fundamentoscsharp\\fundamentoscsharp\\models\\clases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{641AAA08-EAA6-4C76-A2DA-CFD3D940D69D}|FundamentosCsharp\\FundamentosCsharp.csproj|solutionrelative:fundamentoscsharp\\models\\clases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{641AAA08-EAA6-4C76-A2DA-CFD3D940D69D}|FundamentosCsharp\\FundamentosCsharp.csproj|c:\\users\\user\\source\\repos\\fundamentoscsharp\\fundamentoscsharp\\models\\cerveza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{641AAA08-EAA6-4C76-A2DA-CFD3D940D69D}|FundamentosCsharp\\FundamentosCsharp.csproj|solutionrelative:fundamentoscsharp\\models\\cerveza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{641AAA08-EAA6-4C76-A2DA-CFD3D940D69D}|FundamentosCsharp\\FundamentosCsharp.csproj|c:\\users\\user\\source\\repos\\fundamentoscsharp\\fundamentoscsharp\\models\\bebidaalcoholica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641AAA08-EAA6-4C76-A2DA-CFD3D940D69D}|FundamentosCsharp\\FundamentosCsharp.csproj|solutionrelative:fundamentoscsharp\\models\\bebidaalcoholica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
->>>>>>> 17cb418 (c# Parte 2)
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-<<<<<<< HEAD
-      "DocumentGroups": []
-=======
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cerveza.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\FundamentosCsharp\\FundamentosCsharp\\Models\\Cerveza.cs",
-              "RelativeDocumentMoniker": "FundamentosCsharp\\Models\\Cerveza.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\FundamentosCsharp\\FundamentosCsharp\\Models\\Cerveza.cs",
-              "RelativeToolTip": "FundamentosCsharp\\Models\\Cerveza.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CervezaBD.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\FundamentosCsharp\\FundamentosCsharp\\Models\\CervezaBD.cs",
+              "RelativeDocumentMoniker": "FundamentosCsharp\\Models\\CervezaBD.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\FundamentosCsharp\\FundamentosCsharp\\Models\\CervezaBD.cs",
+              "RelativeToolTip": "FundamentosCsharp\\Models\\CervezaBD.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T00:17:16.76Z",
+              "WhenOpened": "2025-03-21T05:02:32.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "BebidaAlcoholica.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\FundamentosCsharp\\FundamentosCsharp\\Models\\BebidaAlcoholica.cs",
+              "RelativeDocumentMoniker": "FundamentosCsharp\\Models\\BebidaAlcoholica.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\FundamentosCsharp\\FundamentosCsharp\\Models\\BebidaAlcoholica.cs",
+              "RelativeToolTip": "FundamentosCsharp\\Models\\BebidaAlcoholica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:29:45.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "clases.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\FundamentosCsharp\\FundamentosCsharp\\Models\\clases.cs",
               "RelativeDocumentMoniker": "FundamentosCsharp\\Models\\clases.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\FundamentosCsharp\\FundamentosCsharp\\Models\\clases.cs",
               "RelativeToolTip": "FundamentosCsharp\\Models\\clases.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T19:27:55.441Z",
               "EditorCaption": ""
@@ -66,7 +75,7 @@
               "RelativeDocumentMoniker": "FundamentosCsharp\\Program.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\FundamentosCsharp\\FundamentosCsharp\\Program.cs",
               "RelativeToolTip": "FundamentosCsharp\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwDAAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwEEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T18:56:45.243Z",
               "EditorCaption": ""
@@ -74,7 +83,6 @@
           ]
         }
       ]
->>>>>>> 17cb418 (c# Parte 2)
     }
   ]
 }

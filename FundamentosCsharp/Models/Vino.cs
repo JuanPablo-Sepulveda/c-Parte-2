@@ -6,15 +6,14 @@ using System.Threading.Tasks;
 
 namespace FundamentosCsharp.Models
 {
-    internal class Cerveza : Bebida,IBebidaAlcoholica
+    internal class Vino : Bebida, IBebidaAlcoholica
     {
         public int Alcohol { get; set; }
-        public string Marca { get; set; }
         public void MaxRecomendado()
         {
-            Console.WriteLine("el maximo permitido de una cerveza son 10 botellas");
+            Console.WriteLine("el maximo permitido son 3 copas");
         }
-        public Cerveza(int Cantidad, string Nombre="Cerveza") 
+        public Vino(int Cantidad, string Nombre = "Vino")
             : base(Nombre, Cantidad)
         {
 

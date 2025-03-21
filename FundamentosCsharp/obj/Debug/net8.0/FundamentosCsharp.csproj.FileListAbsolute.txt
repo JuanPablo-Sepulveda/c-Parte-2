@@ -12,3 +12,9 @@ C:\Users\USER\source\repos\FundamentosCsharp\FundamentosCsharp\obj\Debug\net8.0\
 C:\Users\USER\source\repos\FundamentosCsharp\FundamentosCsharp\obj\Debug\net8.0\FundamentosCsharp.pdb
 C:\Users\USER\source\repos\FundamentosCsharp\FundamentosCsharp\obj\Debug\net8.0\FundamentosCsharp.genruntimeconfig.cache
 C:\Users\USER\source\repos\FundamentosCsharp\FundamentosCsharp\obj\Debug\net8.0\ref\FundamentosCsharp.dll
+C:\Users\USER\source\repos\FundamentosCsharp\FundamentosCsharp\obj\Debug\net8.0\FundamentosCsharp.sourcelink.json
+C:\Users\USER\source\repos\FundamentosCsharp\FundamentosCsharp\obj\Debug\net8.0\FundamentosCsharp.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\FundamentosCsharp\FundamentosCsharp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\source\repos\FundamentosCsharp\FundamentosCsharp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\source\repos\FundamentosCsharp\FundamentosCsharp\bin\Debug\net8.0\Npgsql.dll
+C:\Users\USER\source\repos\FundamentosCsharp\FundamentosCsharp\obj\Debug\net8.0\Fundamen.0C2C548F.Up2Date

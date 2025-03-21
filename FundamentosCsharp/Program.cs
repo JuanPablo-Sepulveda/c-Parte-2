@@ -46,8 +46,26 @@ internal class Program()
         {
             Console.WriteLine("cerveza: "+cervezass.Nombre);
         }
-        Console.WritwLine("*******************************************);
+        Console.WriteLine("*******************************************");
         Console.WriteLine("Interfaces");
 
+        var bebidaAlcoholica = new Cerveza(100);
+        MostrarRecomendacion(bebidaAlcoholica);
+
+        Console.WriteLine("*******************************************");
+        Console.WriteLine("Conexion a base de datos y obtencion de informacion");
+
+        CervezaBD cervezaBD = new CervezaBD();
+        var cerveza = cervezaBD.Get();
+
+        foreach(var cervezaa in cerveza)
+        {
+            Console.WriteLine(cervezaa.Nombre);
+        }
+
+    }
+    static void MostrarRecomendacion(IBebidaAlcoholica bebida)
+    {
+        bebida.MaxRecomendado();
     }
 }
